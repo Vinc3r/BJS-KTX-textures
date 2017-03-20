@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+    <title>KTX textures test</title>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <script type='text/javascript' src='http://babylonjs.azurewebsites.net/babylon.js'></script>	
+    <style type='text/css'>
+        html, body, div, canvas {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+<div style="position:absolute;color:white;font-family:verdana;background-color:rgba(0,0,0,.5);padding-right:1%;margin:0;font-size:.9em;width:auto;height:auto">
+	hardware tests :
+	<ul>
+		<li>astc :
+			<ul>
+				<li></li>
+			</ul>
+		</li>
+		<li>dxt :
+			<ul>
+				<li>Windows 10 / 7 / XP</li>
+				<li>Shield K1 - Android 7.0</li>
+				<li>Mac - OSX 10.6.8</li>
+				<li>Mac - OSX 10.12.3</li>
+			</ul>
+		</li>
+		<li>pvrtc :
+			<ul>
+				<li>Ipad Air WiFi - iOS 10.2.1</li>
+			</ul>
+		</li>
+		<li>etc2 :
+			<ul>
+				<li>Moto G - Android 5.1</li>
+			</ul>
+		</li>
+		<li>png :
+			<ul>
+				<li>Samsung Galaxy Tab S - Android 6.0.1</li>
+				<li>Samsung Tablet Tab A</li>
+				<li>Samsung S7 - Android 6.0.1</li>
+				<li>ZTE Open C - FirefoxOS (B2G 2.1)</li>
+			</ul>
+		</li>	
+	</ul>
+</div>
+<canvas id='canvas'></canvas>
+<button id='debugLayerButton'>Debug layer</button>
+<script type='text/javascript'>
+	var canvas = document.getElementById('canvas');
+	var engine = new BABYLON.Engine(canvas, true);
+	
+	var available = ['-astc.ktx', '-dxt.ktx', '-pvrtc.ktx', '-etc2.ktx'];
+	var formatUsed = engine.setTextureFormatToUse(available);
+	
+	BABYLON.SceneLoader.Load('', 'scene.babylon', engine, function (wonderfulScene) {
+	
+	//camera parameters
+	wonderfulScene.activeCamera.attachControl(canvas);
+	wonderfulScene.activeCamera.speed=.1;
+
+	wonderfulScene.clearColor = new BABYLON.Color3(1, 1, 1);
+	wonderfulScene.ambientColor = new BABYLON.Color3(1,1,1);
+	
+	engine.runRenderLoop(function() {
+		wonderfulScene.render();
+	});
+
+	window.addEventListener('resize', function () {
+		engine.resize();
+	});
+
+	document.getElementById('debugLayerButton').addEventListener('click', function () {
+		if (wonderfulScene.debugLayer.isVisible()) {
+		    wonderfulScene.debugLayer.hide();
+		} else {
+		    wonderfulScene.debugLayer.show();
+		}
+	    });
+	});
+</script>
+</body>
+</html>
