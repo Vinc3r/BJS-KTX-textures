@@ -1,0 +1,18 @@
+{"producer":{"name":"Blender","version":"2.78 (sub 0)","exporter_version":"5.2.0","file":"scene.babylon"},
+"autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"ambientColor":[0,0,0],"gravity":[0,-9.81,0],
+"materials":[{"name":"scene.wonderfulPlane","id":"scene.wonderfulPlane","ambient":[1,1,1],"diffuse":[1,1,1],"specular":[0.5,0.5,0.5],"emissive":[0,0,0],"specularPower":50,"alpha":1,"backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4, 
+"diffuseTexture":{"name":"UVgrid.png","level":1,"hasAlpha":1,"coordinatesMode":0,"uOffset":0,"vOffset":0,"uScale":1,"vScale":1,"uAng":0,"vAng":0,"wAng":0,"wrapU":1,"wrapV":1,"coordinatesIndex":0}}],
+"multiMaterials":[],
+"skeletons":[],
+"meshes":[{"name":"Sun.target","id":"Sun.target","position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":false,"isEnabled":true,"checkCollisions":false,"billboardMode":0,"receiveShadows":false,"tags":""},{"name":"wonderfulPlane","id":"wonderfulPlane","materialId":"scene.wonderfulPlane","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"tags":""
+,"positions":[1,0,-1,-1,0,1,-1,0,-1,1,0,1]
+,"normals":[0,1,0,0,1,0,0,1,0,0,1,0]
+,"uvs":[0.9999,0.0001,0.0001,0.9999,0.0001,0.0001,0.9999,0.9999]
+,"indices":[0,1,2,0,3,1]
+,"subMeshes":[{"materialIndex":0,"verticesStart":0,"verticesCount":4,"indexStart":0,"indexCount":6}]
+,"instances":[]}
+],
+"cameras":[{"name":"Camera","id":"Camera","position":[1.0683,2.5564,-1.4891],"rotation":[0.9684,-0.6201,0.0122],"fov":0.8576,"minZ":0.1,"maxZ":100,"speed":1,"inertia":0.9,"checkCollisions":false,"applyGravity":false,"ellipsoid":[0.2,0.9,0.2],"cameraRigMode":0,"interaxial_distance":0.0637,"type":"FreeCamera"}],"activeCamera":"Camera",
+"lights":[{"name":"Sun","id":"Sun","type":1,"position":[4.0762,5.9039,1.0055],"direction":[-0.5627,-0.8149,-0.1388],"intensity":1,"diffuse":[1,1,1],"specular":[1,1,1]}],
+"shadowGenerators":[]
+}
