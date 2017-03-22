@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="UVgrid.svg"
+   inkscape:export-filename="F:\Program Files\GitHub\BJS-KTX-textures\sources-files\ktx\pvrtc\UVgrid.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="301.55209"
+     inkscape:cy="132.34984"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer7"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <sodipodi:guide
+       position="127.53176,228.04194"
+       orientation="1,0"
+       id="guide4776"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="240.92138,128.28937"
+       orientation="0,1"
+       id="guide4778"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="base UV grid"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-229.26665)"
+     style="opacity:0.98">
+    <image
+       y="229.26665"
+       x="0"
+       id="image4766"
+       xlink:href="data:image/png;base64,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 "
+       preserveAspectRatio="none"
+       height="256"
+       width="256"
+       style="" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.74509805;fill-rule:evenodd;stroke:none;stroke-width:0.98742145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4769"
+       width="192"
+       height="64"
+       x="32"
+       y="325.26666" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="PVRTC"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;line-height:125%;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66094744px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.43444"
+       y="150.41859"
+       id="text4774"><tspan
+         sodipodi:role="line"
+         id="tspan4772"
+         x="127.43444"
+         y="150.41859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.66094744px">PVRTC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="ETC2"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;line-height:125%;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66094744px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.43444"
+       y="150.41859"
+       id="text4774-3"><tspan
+         sodipodi:role="line"
+         x="127.43444"
+         y="150.41859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.66094744px"
+         id="tspan4799">ETC2</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="DXT"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;line-height:125%;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66094744px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.43444"
+       y="150.41859"
+       id="text4774-0"><tspan
+         sodipodi:role="line"
+         id="tspan4772-2"
+         x="127.43444"
+         y="150.41859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.66094744px">DXT</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="ASTC"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;line-height:125%;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66094744px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.43444"
+       y="150.41859"
+       id="text4774-7"><tspan
+         sodipodi:role="line"
+         id="tspan4772-1"
+         x="127.43444"
+         y="150.41859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.66094744px">ASTC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="PNG"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;line-height:125%;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.66094744px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.43444"
+       y="150.41859"
+       id="text4774-05"><tspan
+         sodipodi:role="line"
+         id="tspan4772-0"
+         x="127.43444"
+         y="150.41859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.43700409px;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.66094744px">PNG</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="README">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:mononoki;-inkscape-font-specification:'mononoki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7a7a7a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="316.6828"
+       y="17.604"
+       id="text4841"><tspan
+         sodipodi:role="line"
+         id="tspan4839"
+         x="316.6828"
+         y="17.604"
+         style="fill:#429bb2;fill-opacity:1;-inkscape-font-specification:'mononoki, Normal';font-family:mononoki;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">font used : http://madmalik.github.io/mononoki/</tspan><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="34.270668"
+         style="fill:#429bb2;fill-opacity:1"
+         id="tspan4863" /><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="50.937332"
+         style="fill:#429bb2;fill-opacity:1"
+         id="tspan4865">hide &amp; show desired layers, then :</tspan><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="67.603996"
+         style="fill:#429bb2;fill-opacity:1"
+         id="tspan4859" /><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="84.270668"
+         style="fill:#429bb2;fill-opacity:1"
+         id="tspan4861">export .png to /sources-files/UVgrid.png</tspan><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="100.93733"
+         id="tspan4843"
+         style="fill:#429bb2;fill-opacity:1">export others to <tspan
+   style="fill:#20788e;fill-opacity:1"
+   id="tspan4855">UVgrid.png</tspan> in /sources-files/ktx/<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:mononoki;-inkscape-font-specification:'mononoki, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#7d7d7d;fill-opacity:1"
+   id="tspan4845">formatType</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="117.604"
+         id="tspan4851"
+         style="fill:#429bb2;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="134.40088"
+         id="tspan4853"
+         style="fill:#429bb2;fill-opacity:1">in png export options choose Page, 256²px</tspan><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="151.06754"
+         id="tspan4847" /><tspan
+         sodipodi:role="line"
+         x="316.6828"
+         y="167.73421"
+         id="tspan4849" /></text>
+  </g>
+</svg>
