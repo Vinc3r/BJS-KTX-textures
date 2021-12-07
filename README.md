@@ -27,6 +27,6 @@ Feel free to contribute.
 
 ### Batch way...
 
-..._but-I-don't-know-yet-how-to-customize-it_ is to use .bat files from [babylonJS doc]((http://doc.babylonjs.com/tutorials/multi-platform_compressed_textures).
+..._but-I-don't-know-yet-how-to-customize-it_ is to use .bat files from [babylonJS doc](http://doc.babylonjs.com/tutorials/multi-platform_compressed_textures).
 
 [TimvanScherpenzeel](https://github.com/TimvanScherpenzeel) let me [know](https://github.com/Vinc3r/BJS-KTX-textures/issues/1) that he made a tool to make easier texture compression, for all platforms: [Texture compressor](https://github.com/timvanScherpenzeel/texture-compressor).
